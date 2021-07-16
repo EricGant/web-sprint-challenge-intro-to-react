@@ -22,7 +22,13 @@ const App = () => {
     display:flex;
     flex-direction:column;
     align-items:center;
-    color:#E1DDDD`
+    color:#E1DDDD;
+    
+    .Header{
+      display:flex;
+      align-items: center;
+      justify-content: center;
+    }`
   // Try to think through what state you'll need for this app before starting. Then build out
   // the state properties here.
 
