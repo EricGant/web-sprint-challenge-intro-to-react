@@ -15,13 +15,14 @@ const App = () => {
     })
     .catch(err =>
     console.log(err)
-  )},)
-    console.log(data)
+  )},[])
+
 
     const Container = styled.div`
     display:flex;
     flex-direction:column;
-    align-items:center;`
+    align-items:center;
+    color:#E1DDDD`
   // Try to think through what state you'll need for this app before starting. Then build out
   // the state properties here.
 
