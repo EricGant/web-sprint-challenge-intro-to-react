@@ -74,7 +74,7 @@ After finishing your required elements, you can push your work further. These go
 - [x] Please don't merge your own pull request and make sure **you are on your own repo**.
 - [x] Check Codegrade for automated feedback.
 - [x] Check Codegrade in the days following the Sprint Challenge for reviewer feedback.
-- [x] Any changes pushed after the deadline will not receive any feedback.
+- [] Any changes pushed after the deadline will not receive any feedback.
 
 ## Interview Questions
 
