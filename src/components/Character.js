@@ -23,14 +23,14 @@ const Character = (props) => {
         display:none;
     }
 
-    h2 {
-    color:white;
+     h2{    
+    color:white
     }
     `
 
     return(
         <Style>
-            <div classname = "name"> <h2>{char.name}</h2> </div>
+            <div classname = "name"> <h2>{char.name}</h2></div>
             <div className = 'display'/>
             <div>{char.gender}</div>
             <div>{char.height}</div>

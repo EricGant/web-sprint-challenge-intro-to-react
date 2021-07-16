@@ -32,8 +32,8 @@ const App = () => {
   return (
     <Container>
     <div className="App">
+    <h1 className="Header">Characters</h1>
       <Characters characters={data}/>
-      <h1 className="Header">Characters</h1>
     </div>
     </Container>
   );
